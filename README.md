@@ -1,5 +1,5 @@
 Base Datasets:
-- https://catalog.data.gov/dataset/u-s-chronic-disease-indicators?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9
+- By year and state (2015-2023): https://catalog.data.gov/dataset/u-s-chronic-disease-indicators?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9
 
 Supplementary Datasets Describing State-wide Factors:
   - Small Area Health Insurance Estimates (SAHIE): single-year estimates of health insurance coverage status for all counties in the United States: https://www.census.gov/programs-surveys/sahie.html
