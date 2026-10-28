@@ -1,3 +1,5 @@
+**We're focusing on years 2016-2020, so all datasets in the data folder have been truncated to those years.**
+
 Base Datasets:
 - By year and state (2015-2023): https://catalog.data.gov/dataset/u-s-chronic-disease-indicators?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9
 
